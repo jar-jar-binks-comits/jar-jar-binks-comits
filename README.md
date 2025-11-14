@@ -41,7 +41,7 @@ Ancient languages are my deep obsession — Latin, Ancient Greek, Linear B, prot
 
 **🥾 OFF HOURS**
 
-When I'm not training something (brains or models), I'm reading, scuba diving, hiking, or disappearing somewhere I shouldn't — with boots on and a questionable judgment.
+When I'm not training something (brains or models), I'm reading, scuba diving, cooking, or disappearing somewhere I shouldn't — with boots on and a questionable judgment.
 
 </td>
 </tr>

@@ -35,7 +35,7 @@
 
 ### 🧠 Research Territory
 
-My work lives at the intersection of computational auditory neuroscience, natural language processing, computational linguistics, neurolinguistics, and psycholinguistics. I'm fascinated by how the brain processes sound and meaning — investigating everything from olivocochlear efferent systems to the neural architectures that parse linguistic structure. My research combines signal processing, machine learning, and cognitive modeling to understand how auditory and linguistic information is encoded, transmitted, and decoded in the nervous system.
+My work lives at the intersection of computational auditory neuroscience, natural language processing, computational linguistics, neurolinguistics, and psycholinguistics. I'm fascinated by how the brain processes sound and meaning — investigating everything from olivocochlear efferent systems to the neural architectures that parse linguistic structure. My research combines signal processing, machine learning, and cognitive modelling to understand how auditory and linguistic information is encoded, transmitted, and decoded in the nervous system.
 
 </td>
 <td width="50%" valign="top">

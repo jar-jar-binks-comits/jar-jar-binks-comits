@@ -42,7 +42,7 @@ My work lives at the intersection of computational auditory neuroscience, natura
 
 ### 🏛️ Ancient Obsessions
 
-Latin, Ancient Greek, Linear B decipherment, proto-language evolution, historical linguistics — these aren't just interests but a deep passion I explore computationally. I'm drawn to the ingenious structures of ancient languages, from Herodotus to the Mycenaean tablets, from Homeric verse to the evolution of Indo-European roots. It's where philology meets algorithms, where spectrograms decode what ancient scribes encoded, and where computational methods illuminate texts that have puzzled scholars for millennia.
+Latin, Ancient Greek, Linear B decipherment, proto-language evolution, historical linguistics — these aren't just interests but a deep passion I explore computationally. I'm drawn to the ingenious structures of ancient languages, from Herodotus to the Mycenaean tablets, from Homeric verse to the evolution of Indo-European roots. 
 
 </td>
 </tr>

@@ -47,7 +47,7 @@
 <tr>
 <td valign="top">
 
-My work lives at the intersection of **computational auditory neuroscience**, **computational lingusitics**, and **neurocholinguistics**. I'm fascinated by how the brain processes sound and meaning—investigating everything from olivocochlear efferent systems to neural architectures that parse linguistic structure. 
+My work lives at the intersection of **computational auditory neuroscience**, **computational lingusitics**, and **neuro/psycolinguistics**. I'm fascinated by how the brain processes sound and meaning—investigating everything from olivocochlear efferent systems to neural architectures that parse linguistic structure. 
 
 </td>
 <td valign="top">

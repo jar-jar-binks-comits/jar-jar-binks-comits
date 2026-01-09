@@ -1,17 +1,6 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndkMzkyMGZpYzA4b2ZlYTE1dDg2MDNhemJiNHduZ2Rka3duZnZ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="280" style="border-radius: 15px; border: 2px solid #2D5A27;"/>
- <p align="center">
-    <img src="https://img.shields.io/badge/Computational_Auditory_Neuroscience-268bd2?style==flat&logo=soundcharts&logo=sensu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Neurolinguistics-6c71c4?style==flat&logo=soundcharts&logo=sensu&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Natural_Language_Processing-2aa198?style==flat&logo=soundcharts&logo=sensu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Psycholinguistics-d33682?style==flat&logo=soundcharts&logo=sensu&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Computational_Linguistics-859900?style==flat&logo=soundcharts&logo=sensu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Historical_Linguistics-a0522d?style==flat&logo=soundcharts&logo=sensu&logoColor=white" />
-  </p>
   
-
 </div>
 
 <div align="center">

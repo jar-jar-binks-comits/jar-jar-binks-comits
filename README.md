@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-2D5A27?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-4B5320?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-268BD2?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-B58900?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />

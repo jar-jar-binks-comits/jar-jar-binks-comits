@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/-Python-2D5A27?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-268BD2?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-B58900?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-CB4B16?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />

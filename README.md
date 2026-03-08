@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndkMzkyMGZpYzA4b2ZlYTE1dDg2MDNhemJiNHduZ2Rka3duZnZ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="280" style="border-radius: 15px; border: 5px solid #2D5A27;"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndkMzkyMGZpYzA4b2ZlYTE1dDg2MDNhemJiNHduZ2Rka3duZnZ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="380" style="border-radius: 15px; border: 5px solid #2D5A27;"/>
   
 </div>
 
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-R-268BD2?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-B58900?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-CB4B16?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MNE_Python-2D5A27?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-073642?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Scikit_Learn-586E75?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-D33682?style=for-the-badge&logo=jupyter&logoColor=white" />

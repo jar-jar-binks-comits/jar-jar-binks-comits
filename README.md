@@ -23,10 +23,10 @@
 <table align="center">
 <tr>
 <th width="50%">
-  <img src="https://img.shields.io/badge/—%20🧠%20Research%20Territory%20—-2D5A27?style=for-the-badge" width="80%" />
+  <img src="https://img.shields.io/badge/—%20🧠%20Research%20Territory%20—-2D5A27?style=for-the-badge" width="90%" />
 </th>
 <th width="50%">
-  <img src="https://img.shields.io/badge/—%20🏛️%20Ancient%20Obsessions%20—-8B4513?style=for-the-badge" width="80%" />
+  <img src="https://img.shields.io/badge/—%20🏛️%20Ancient%20Obsessions%20—-8B4513?style=for-the-badge" width="90%" />
 </th>
 </tr>
 <tr>

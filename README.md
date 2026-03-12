@@ -47,7 +47,7 @@ My work lives at the intersection of **computational auditory neuroscience**, **
   <table>
     <tr>
       <td align="right">
-        <i>"When I'm not training something (brains or models), I'm reading, swimming, cooking, or disappearing somewhere I shouldn't — with boots on and questionable judgment."</i><br>
+        <i>"When I'm not training something (brains, models, or myself), I'm reading, swimming, cooking, or disappearing somewhere I shouldn't — with boots on and questionable judgment."</i><br>
         <b>— Ella</b>
       </td>
       <td width="50px"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFsdW82b3cyc3FzeDduMW82MmNtNDd4OWk5ZDV0N21ieTBpazJqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRuYXWpqOoIFnzO/giphy.gif" width="90px"/></td>
